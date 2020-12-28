@@ -1,0 +1,42 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+    /* position: absolute; */
+    background: linear-gradient(180deg, #0837B0 0%, #021E66 100%);
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 150px;
+    line-height: 176px;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 1440px;
+    height: 768px;
+
+    /* background-position: center;
+	background-size: cover;
+	background-attachment: fixed; */
+}
+
+.count-style {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    margin-top: 189px;
+    margin-left: 578px;
+    /* text-align: center; */
+
+    background: #FFFFFF;
+    box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+}
+
+.counter {
+    margin-top: 62px;
+    margin-left: 65px;
+    /* position: absolute; */
+}
