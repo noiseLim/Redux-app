@@ -30,12 +30,12 @@ body {
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     margin: auto;
 }
-.btn-block{
+#btn-block{
     display: flex;
     justify-content: center;
     
 }
-.btn-block:not(:last-of-type){
+#btn-block:not(:last-of-type){
     margin-bottom: 34px;
 }
 .btn{
